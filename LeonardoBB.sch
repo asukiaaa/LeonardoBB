@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:LeonardoBB-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -303,7 +304,7 @@ U 1 1 5C63E8CB
 P 2450 6300
 F 0 "J1" H 2505 6767 50  0000 C CNN
 F 1 "USB_B_Micro" H 2505 6676 50  0000 C CNN
-F 2 "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" H 2600 6250 50  0001 C CNN
+F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 2600 6250 50  0001 C CNN
 F 3 "~" H 2600 6250 50  0001 C CNN
 	1    2450 6300
 	1    0    0    -1  
@@ -892,7 +893,7 @@ U 1 1 5C6F5942
 P 6400 2450
 F 0 "U2" H 6400 2817 50  0000 C CNN
 F 1 "LMV358" H 6400 2726 50  0000 C CNN
-F 2 "Package_SO:VSSOP-8_2.3x2mm_P0.5mm" H 6400 2450 50  0001 C CNN
+F 2 "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm" H 6400 2450 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lmv324.pdf" H 6400 2450 50  0001 C CNN
 	1    6400 2450
 	1    0    0    -1  
@@ -903,7 +904,7 @@ U 2 1 5C6F5ABB
 P 6250 4250
 F 0 "U2" H 6250 4617 50  0000 C CNN
 F 1 "LMV358" H 6250 4526 50  0000 C CNN
-F 2 "Package_SO:VSSOP-8_2.3x2mm_P0.5mm" H 6250 4250 50  0001 C CNN
+F 2 "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm" H 6250 4250 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lmv324.pdf" H 6250 4250 50  0001 C CNN
 	2    6250 4250
 	1    0    0    -1  
@@ -1001,7 +1002,7 @@ U 3 1 5C704607
 P 5400 2850
 F 0 "U2" H 5358 2896 50  0000 L CNN
 F 1 "LMV358" H 5358 2805 50  0000 L CNN
-F 2 "Package_SO:VSSOP-8_2.3x2mm_P0.5mm" H 5400 2850 50  0001 C CNN
+F 2 "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm" H 5400 2850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lmv324.pdf" H 5400 2850 50  0001 C CNN
 	3    5400 2850
 	1    0    0    -1  
